@@ -1,7 +1,12 @@
 # FINAL PROJECT STRUKTUR DATA
+
 ## Kelompok IT25
-### Fikri Aulia (5027231026)
+## Struktur Data_Modul 6_IT25
 
-### I Dewa Made Satya Raditya (5027231051)
+## Anggota Kelompok
 
-### Aisyah Rahmasari (5027231072)
+| NRP        | Nama                            |
+|:----------:|:-------------------------------:|
+| 5027231026 | Fikri Aulia                     |
+| 5027231051 | I Dewa Made Satya Raditya       |
+| 5027231072 | Aisyah Rahmasari                |
