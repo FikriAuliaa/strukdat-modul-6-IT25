@@ -8,5 +8,5 @@
 | NRP        | Nama                            |
 |:----------:|:-------------------------------:|
 | 5027231026 | Fikri Aulia                     |
-| 50272310   | I Made Satya Raditya            |
+| 5027231010 | I Dewa Made Satya Raditya       |
 | 5027231072 | Aisyah Rahmasari                |
